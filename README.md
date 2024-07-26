@@ -46,5 +46,7 @@ To run this project locally, follow these steps:
 For any queries or suggestions, feel free to reach out:
 - **Email**: [sayedarfat01@gmail.com]
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
